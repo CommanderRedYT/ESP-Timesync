@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "default": "nginx",
+        "random": "cpp"
+    }
+}
